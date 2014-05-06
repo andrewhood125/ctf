@@ -1,9 +1,9 @@
 [submodule "ctf-server"]
 	path = ctf-server
-	url = git@github.com:andrewhood125/ctf-server.git
+	url = https://github.com/andrewhood125/ctf-server.git
 [submodule "ctf-web"]
 	path = ctf-web
-	url = git@github.com:andrewhood125/ctf-web.git
+	url = https://github.com/andrewhood125/ctf-web.git
 [submodule "ctf-debug"]
 	path = ctf-debug
-	url = git@github.com:andrewhood125/ctf-debug.git
+	url = https://github.com/andrewhood125/ctf-debug.git
